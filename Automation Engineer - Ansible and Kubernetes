@@ -1,0 +1,21 @@
+Automation Engineer - Ansible and Kubernetes:
+---------------------------------------------
+This role involves working as an Ansible administrator, focusing on maintenance and management of Ansible Automation Platform/AWX, as well as developing and implementing Ansible solutions.
+
+The ideal candidate will have strong knowledge of Ansible and experience in working with Kubernetes and Linux systems.
+
+Responsibilities:
+• Maintain and manage Ansible Automation Platform/AWX
+• Investigate and troubleshoot issues related to core infrastructure components
+• Develop Ansible solutions and expand existing ones
+
+Requirements:
+• Knowledge of Ansible (Ansible Playbook Development, Ansible Tower/Ansible Automation Platform 2/AWX management)
+• Basic Kubernetes knowledge (Kubernetes management)
+• Linux systems administration (at least RHCSA level equivalent)
+• Scripting/Programming - Bash/Python
+• Experience with at least one cloud platform - Azure, AWS, GCP
+
+Bonus Points:
+• Crossplane - basic
+• Airflow (DAG development)
