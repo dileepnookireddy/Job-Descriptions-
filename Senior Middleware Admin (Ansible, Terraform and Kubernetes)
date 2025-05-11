@@ -1,0 +1,58 @@
+Senior Middleware Admin (Ansible, Terraform and Kubernetes) -Job description
+------------------------------------------------------------
+Direct Responsibilities:
+• Build and maintain Ansible playbooks and Terraform scripts to automate provisioning, configuration, and deployments.
+• Work on containerization of legacy applications.
+• Assist and train other ops profiles on Ansible, Terraform, and Kubernetes.
+
+Team Responsibilities:
+• Provisioning, Configuration, Deployment, and Disaster Recovery (DR).
+
+Technical Skills:
+
+Mandatory Skills:
+• Strong knowledge of Linux platform and Command Line Interface (CLI).
+• Proficiency in at least one scripting language (Python and/or Bash preferred).
+• Good understanding of Continuous Integration tools (Jenkins, Travis, Concourse, etc.).
+• Expertise in Kubernetes, Ansible, and Terraform.
+
+Preferred Skills:
+• Experience in Ansible and Docker for at least 2+ years.
+• Understanding of middleware technologies and their configurations.
+• Knowledge of middleware tools such as WebSphere, JBoss, or similar.
+
+Experience:
+• Master’s Degree in Computer Science or Computer Engineering.
+• 5+ years of experience in IT Operations or Software Engineering.
+• At least 2+ years of hands-on experience with middleware administration and cloud environments.
+
+Day-to-Day Activities:
+• Monitor and maintain the performance of middleware systems.
+• Collaborate with cross-functional teams to support middleware-related initiatives.
+• Ensure the integrity and security of middleware environments.
+• Troubleshoot and resolve middleware-related issues.
+• Implement middleware configurations and upgrades.
+• Automate middleware provisioning, configuration, and deployments using Ansible and Terraform.
+• Provide training and support to other team members on middleware technologies.
+
+Qualifications:
+• Master’s Degree in Computer Science or Computer Engineering.
+• Red Hat Enterprise Linux Automation with Ansible (RH294).
+• Certified Kubernetes Application Developer (CKAD).
+• Optional: HashiCorp Certified: Terraform Associate (003).
+• Optional: HashiCorp Certified: Vault Associate (002).
+
+Soft Skills:
+• Strong critical thinker with problem-solving aptitude.
+• Good written and oral communication skills.
+• Ability to share and pass on knowledge.
+• Ability to collaborate and work effectively in a team.
+• Results-driven with a strong focus on delivering high-quality outcomes.
+
+--------------------------
+
+S​YNECHRON’S DIVERSITY & INCLUSION STATEMENT
+
+Diversity & Inclusion are fundamental to our culture, and Synechron is proud to be an equal opportunity workplace and is an affirmative action employer. Our Diversity, Equity, and Inclusion (DEI) initiative ‘Same Difference’ is committed to fostering an inclusive culture – promoting equality, diversity and an environment that is respectful to all. We strongly believe that a diverse workforce helps build stronger, successful businesses as a global company. We encourage applicants from across diverse backgrounds, race, ethnicities, religion, age, marital status, gender, sexual orientations, or disabilities to apply. We empower our global workforce by offering flexible workplace arrangements, mentoring, internal mobility, learning and development programs, and more.
+
+All employment decisions at Synechron are based on business needs, job requirements and individual qualifications, without regard to the applicant’s gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law.
